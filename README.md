@@ -1,3 +1,3 @@
 ## Genetic Algorithms
 
-- Attempting Knapsack and travelling salesman problems using genetic algorithms
+- Attempting Knapsack and Travelling Salesman problems using genetic algorithms
